@@ -1,0 +1,29 @@
+
+If solution
+/*before the if else statement I need a function to do word count
+and then based on if there is a duplicate the true of false statement will print out true or false*/
+ */
+
+
+    string[] solution = value.split
+
+    if (solution.length == 1 && solution[0].length() == 0 {
+        return 0;
+    }
+        Int wordcount =
+
+         wordcount++ =
+
+    if (solution == true){
+
+        system.out.print.In("it's true");
+    }
+
+    else{
+      system.out.print.In("It's false");
+    }
+
+    public Boolean harmlessRansomNote(String message , String magazineText){
+        return null;
+    }
+}
